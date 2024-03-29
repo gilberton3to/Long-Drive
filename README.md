@@ -11,14 +11,14 @@ Ele inclui operações CRUD básicas, uma interface gráfica criada com Qt Desig
 
 ## Tecnologias Utilizadas
 
-### Python:
+**Python:**
 - Desenvolvimento da lógica do sistema utilizando Python.
 - Utilização do módulo sqlite3 para interação com o banco de dados.
 
-### Qt Designer:
+**Qt Designer:**
 - Criação da interface do usuário de forma visual com Qt Designer.
 
-### SQLite 3:
+**SQLite 3:**
 - Banco de dados embutido para armazenar informações sobre carros e transações de aluguel.
 
 ## Principais Telas
